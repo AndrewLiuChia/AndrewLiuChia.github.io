@@ -179,25 +179,7 @@ IBIZA 巨乳控,p3p://108.181.20.159:45682/644ecb5f000ca4ee650265db655d0248
 Brazzers,p3p://fccsen.dyndns.tv:29706/60bc2535000292424fc304cf3c251ba8
 Dorcel XXX,p3p://fccsen.dyndns.tv:29706/5e5f0e09000182301cb87c94194b43d6
 Vivid red,p3p://fccsen.dyndns.tv:29706/5b2c54aa0003c48fe0d1190f0090339a
-成人區失效,#genre#
-Amazing,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-潘多拉完美,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-香蕉,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-松视2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-松视3台,http://18.svi-studio.com/live/176619383282/537544338952/20205.m3u8
-松视1台2,https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
-松视2台2,https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
-松视3台,https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
-潘多拉完美2,https://z88.ubtvfans.com:443/live/rx3/410/65c496a8a32fe34c9af6b1dce9988f28/index.m3u8
-PLAYBOY,https://z88.ubtvfans.com:443/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
-彩虹電影,https://z88.ubtvfans.com:443/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
-彩虹e,https://z88.ubtvfans.com:443/live/rx3/406/6a7f30cbbe921e9a6809d4a8c131aef1/index.m3u8
-彩虹k,https://z88.ubtvfans.com:443/live/rx3/415/24833f79298189b7d1b60e9d59af0018/index.m3u8
-Amazing2,http://z88.ubtvfans.com/live/rx4/2931/0abbe9024509c229983e5c124e987107/index.m3u8
-LOOK,http://z88.ubtvfans.com:443/live/rx4/2933/60497d63c7532401bb5795a8e2a9adaa/index.m3u8
-香蕉2,http://z88.ubtvfans.com:443/live/rx3/2930/3bd19ceb41bccf7790ee168b92b69985/index.m3u8
-彩虹電影2,http://z88.ubtvfans.com:443/live/rx4/2934/e36bc489afabbf84ed6ae225b1400ae8/index.m3u8
+
 CyberTV,#genre#
 松视1台,mitv://135.148.104.228:19806/65965a69000205b2a39437282edd171f
 松视2台,mitv://135.148.104.228:19806/65965a69000aa6b2a394396a278d2960
@@ -211,7 +193,8 @@ LOOK TV,mitv://135.148.104.228:19806/65965b99000447ada398db445ba341d9
 HAPPY,mitv://135.148.104.228:19806/659660790009efada3abe7bb6374465e
 JStar极限台,mitv://135.148.104.228:19806/65965afc0003ca30a39675dd41a40275
 K频道,mitv://135.148.104.228:19806/659660d600094f04a3ad52d46ed26cbc
-fm1077,#genre#
+
+anbo,#genre#
 松視1,https://fm1077.serv00.net/anbo/index.php?id=402
 松视1台,https://fm1077.serv00.net/anbo/index.php?id=2905
 松视2台,https://fm1077.serv00.net/anbo/index.php?id=2906
