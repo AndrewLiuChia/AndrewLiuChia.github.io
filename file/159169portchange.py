@@ -35,7 +35,7 @@ def main():
     # 定義需要替換的 IP 和新 port
     replacements = {
         '108.181.20.159': '60095',
-        '108.181.32.169': '34159'
+        '108.181.32.169': '14438'
     }
 
     for file_path in file_paths:
