@@ -28,14 +28,14 @@ def change_port(lines, ip_address, new_port):
 # 主函數
 def main():
     file_paths = [
-        r'C:\Users\Andrew\Source\Repos\GithubPage\file\combine.txt',
+        #r'C:\Users\Andrew\Source\Repos\GithubPage\file\combine.txt',
         r'C:\Users\Andrew\Source\Repos\GithubPage\file\TaiwanLive.txt'
     ]  # 原始檔案路徑
 
     # 定義需要替換的 IP 和新 port
     replacements = {
-        '108.181.20.159': '50134',
-        '108.181.32.169': '34160'
+        '108.181.20.159': '57941',
+        '108.181.32.169': '12434'
     }
 
     for file_path in file_paths:
