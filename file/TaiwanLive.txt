@@ -1694,3 +1694,9 @@ RK Prime,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6248/index.m3u8
 RK TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6249/index.m3u8
 Rough Adult TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6250/index.m3u8
 Russian Adult TV,http://1ufnvzmc.otttv.pw/iptv/D8E2H3EU6R29MA/6251/index.m3u8
+🔞125,#genre#
+驚艷台,http://125.227.210.55:8156/VideoInput/play.ts 
+香蕉台,http://125.227.210.55:8159/VideoInput/play.ts 
+奥視3,http://125.227.210.55:8917/VideoInput/play.ts 
+奥視2,http://125.227.210.55:55643/VideoInput/play.ts 
+Sex Girl,http://125.227.210.55:62698/VideoInput/play.ts
